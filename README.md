@@ -113,3 +113,5 @@ Para suporte, envie um email para seu-email@exemplo.com ou abra uma issue no Git
 ---
 
 **Desenvolvido com ❤️ para restaurantes**
+
+<!-- Trigger Vercel Deploy -->
